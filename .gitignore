@@ -1,0 +1,14 @@
+# IntelliJ:
+/layout.json
+/__placeholder__.js
+/.idea/*
+!/.idea/.editorconfig
+!/.idea/externalDependencies.xml
+!/.idea/inspectionProfiles/
+!/.idea/inspectionProfiles/*
+!/.idea/dictionaries/
+/.idea/dictionaries/*
+!/.idea/dictionaries/.gitkeep
+*.iml
+*.iws
+*.*___jb_tmp___

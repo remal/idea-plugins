@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalDependencies">
+    <plugin id="CheckStyle-IDEA" />
+    <plugin id="GrepConsole" />
+    <plugin id="LogSupport2" />
+    <plugin id="MavenRunHelper" />
+    <plugin id="PlantUML integration" />
+    <plugin id="Spell Checker Java Dictionary" />
+    <plugin id="com.github.camork.fileExpander" />
+    <plugin id="com.github.healarconr.loggerfolding" />
+    <plugin id="com.haulmont.jpab" />
+    <plugin id="com.intellij.grazie.pro" />
+    <plugin id="com.intellij.kubernetes" />
+    <plugin id="com.intellij.ml.llm" />
+    <plugin id="com.wuyr.google_library_query" />
+    <plugin id="lermitage.intellij.extra.icons" />
+    <plugin id="mobi.hsz.idea.gitignore" />
+    <plugin id="net.seesharpsoft.intellij.plugins.csv" />
+    <plugin id="net.sf.opk.avro-schema-support" />
+    <plugin id="org.asciidoctor.intellij.asciidoc" />
+    <plugin id="org.jetbrains.plugins.docker.gateway" />
+    <plugin id="org.mapstruct.intellij" />
+    <plugin id="org.sonarlint.idea" />
+    <plugin id="org.zalando.intellij.swagger" />
+    <plugin id="ris58h.lacopom" />
+    <plugin id="ru.adelf.idea.dotenv" />
+  </component>
+</project>
