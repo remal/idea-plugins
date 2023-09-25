@@ -14,6 +14,7 @@
     <plugin id="com.intellij.kubernetes" />
     <plugin id="com.intellij.ml.llm" />
     <plugin id="com.wuyr.google_library_query" />
+    <plugin id="io.plugin.tsnode" />
     <plugin id="lermitage.intellij.extra.icons" />
     <plugin id="mobi.hsz.idea.gitignore" />
     <plugin id="net.seesharpsoft.intellij.plugins.csv" />
